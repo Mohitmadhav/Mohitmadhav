@@ -36,13 +36,6 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 <br/>
 
-<<<<<<< HEAD
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&text_color=19cc91&locale=en&layout=compact" alt="mohitmadhav" /> <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&text_color=19cc91&locale=en" alt="mohitmadhav" /></p>
-=======
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&text_color=19cc91&locale=en&layout=compact" alt="mohitmadhav" /> 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&text_color=19cc91&locale=en" alt="mohitmadhav" />
-</p>
->>>>>>> 21414e87b2a2084cf59078ea99a8a35469e948c5
 
 
