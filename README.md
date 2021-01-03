@@ -10,15 +10,15 @@
 
 - 🌱 I’m currently learning **Flutter, Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mohitmadhav](https://github.com/Mohitmadhav)
+- 👨‍💻 All of my projects are available at [Mohitmadhav](https://github.com/Mohitmadhav)
 
-- 💬 Ask me about **C++, DS Algo, UI Designing**
+- 💬 Ask me about **C++, DS Algo, UI Designing, App Development**
 
 - 📫 How to reach me **mohitmadhav88@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1MO3OW-njuT-KS7hp5BbxYuyk5XJ7vn9V](https://drive.google.com/drive/u/0/folders/1MO3OW-njuT-KS7hp5BbxYuyk5XJ7vn9V)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/u/0/folders/1MO3OW-njuT-KS7hp5BbxYuyk5XJ7vn9V)
 
-- ⚡ Fun fact **I do CP in C++ but App development in Kotlin which involves Java.**
+- ⚡ Fun fact **When it comes to Overthinking, Daydreaming and Singing, it's like..I could do this alll dayy 😎**
 <br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohitmadhav)](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -36,7 +36,13 @@
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> 
+
+</p>
 <br/>
 <br/>
 
