@@ -21,7 +21,7 @@
 - ⚡ Fun fact **When it comes to Overthinking, Daydreaming and Singing, it's like..I could do this alll dayy 😎**
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohitmadhav)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohitmadhav&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 
