@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Madhav</h1>
-<h3 align="center">A passionate UI developer from India</h3>
+<h3 align="center">A passionate self-made developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitmadhav&label=Profile%20views&color=0e75b6&style=flat" alt="mohitmadhav" /> </p>
 
@@ -20,6 +20,8 @@
 
 - ⚡ Fun fact **I do CP in C++ but App development in Kotlin which involves Java.**
 <br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohitmadhav)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 
