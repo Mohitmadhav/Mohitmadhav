@@ -20,7 +20,7 @@
 <h3 align="left">Know about my experiences:</h3>
 <a href= "https://drive.google.com/drive/u/0/folders/1MO3OW-njuT-KS7hp5BbxYuyk5XJ7vn9V">📄 My Resume </a>
 <br>
-
+<p align= "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&text_color=19cc91&locale=en&layout=compact" alt="mohitmadhav" />
 <img src="https://github-readme-stats.vercel.app/api?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&text_color=19cc91&locale=en" alt="mohitmadhav" />
 </p>
