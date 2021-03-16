@@ -19,8 +19,9 @@
 
 <br>
 <br>
-
+<!--
 <p align= "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&text_color=19cc91&locale=en&layout=compact" alt="mohitmadhav" />
+-->
 <img src="https://github-readme-stats.vercel.app/api?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&text_color=19cc91&locale=en" alt="mohitmadhav" />
 </p>
