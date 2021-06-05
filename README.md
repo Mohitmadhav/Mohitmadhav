@@ -3,6 +3,11 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitmadhav" alt="mohitmadhav" /></a> </p> -->
 
+<p align= "center">
+<img src="https://github-readme-stats.vercel.app/api?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&text_color=19cc91&locale=en" alt="mohitmadhav" />
+</p>
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohitmadhav8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mohitmadhav8" height="30" width="40" /></a>
