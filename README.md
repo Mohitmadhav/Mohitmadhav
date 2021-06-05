@@ -3,10 +3,11 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitmadhav" alt="mohitmadhav" /></a> </p> -->
 
-<!-- <p align= "center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&text_color=19cc91&locale=en" alt="mohitmadhav" />
-</p> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitmadhav&show_icons=true&locale=en" alt="mohitmadhav" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmadhav&" alt="mohitmadhav" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&hide_border=true&locale=en&layout=compact" alt="mohitmadhav" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&hide_border=true&locale=en" alt="mohitmadhav" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmadhav&theme=dark" alt="mohitmadhav" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmadhav&" alt="mohitmadhav" /></p> -->
 
