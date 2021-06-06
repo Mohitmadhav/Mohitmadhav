@@ -5,9 +5,9 @@
 
 <br>
 
-<p ><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&hide_border=true&locale=en" alt="mohitmadhav" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmadhav&theme=dark" alt="mohitmadhav" /></p>
+<p ><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&hide_border=true&locale=en" alt="mohitmadhav" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmadhav&theme=dark" alt="mohitmadhav" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmadhav&theme=dark" alt="mohitmadhav" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmadhav&" alt="mohitmadhav" /></p> -->
 
