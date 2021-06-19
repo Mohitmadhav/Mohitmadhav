@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohit Madhav</h1>
 <h3 align="center">An aspiring Software Developer from India</h3>
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitmadhav" alt="mohitmadhav" /></a> </p> -->
-
 <br>
 
-<!-- <p ><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&hide_border=true&locale=en" alt="mohitmadhav" /></p> -->
+
 ![Mohit](https://github-readme-stats.vercel.app/api?username=Mohitmadhav&show_icons=true&theme=blue-green)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitmadhav&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmadhav&theme=dark" alt="mohitmadhav" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmadhav&" alt="mohitmadhav" /></p> -->
 
 <br>
 <br>
