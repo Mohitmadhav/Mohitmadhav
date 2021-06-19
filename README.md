@@ -7,7 +7,7 @@
 
 <!-- <p ><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitmadhav&show_icons=true&theme=merko&title_color=19cc91&hide_border=true&locale=en" alt="mohitmadhav" /></p> -->
 ![Mohit](https://github-readme-stats.vercel.app/api?username=Mohitmadhav&show_icons=true&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitmadhav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitmadhav&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmadhav&theme=dark" alt="mohitmadhav" /></p> -->
