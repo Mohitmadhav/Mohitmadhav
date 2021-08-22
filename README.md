@@ -9,10 +9,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitmadhav&layout=compact&theme=blue-green)](https://github.com/Mohitmadhav/github-readme-stats)
 
 <br>
-
-![](https://github.com/Mohitmadhav/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Mohitmadhav/github-stats/blob/master/generated/languages.svg)
-<br>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
