@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitmadhav&layout=compact&theme=blue-green)](https://github.com/Mohitmadhav/github-readme-stats)
 
 <br>
-<br>
+<!-- <br> -->
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohitmadhav8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mohitmadhav8" height="30" width="40" /></a>
