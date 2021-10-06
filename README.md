@@ -3,10 +3,13 @@
 
 <br>
 
-
-![Mohit](https://github-readme-stats.vercel.app/api?username=Mohitmadhav&show_icons=true&theme=blue-green)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mohitmadhav&show_icons=true&theme=blue-green" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitmadhav&layout=compact&theme=blue-green" />
+</p>
+<!-- ![Mohit](https://github-readme-stats.vercel.app/api?username=Mohitmadhav&show_icons=true&theme=blue-green)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitmadhav&layout=compact&theme=blue-green)](https://github.com/Mohitmadhav/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitmadhav&layout=compact&theme=blue-green)](https://github.com/Mohitmadhav/github-readme-stats) -->
 
 <br>
 <!-- <br> -->
