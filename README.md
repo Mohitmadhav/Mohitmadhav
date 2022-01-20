@@ -3,15 +3,10 @@
 <br>
 
 - 🔭 I’m currently working on:  [Project Easter](https://github.com/Project-Easter/Flutter-UI)
-
 - 👯 I’m looking to collaborate on: [Project Easter](https://github.com/Project-Easter/Flutter-UI)
-
 - 💬 Ask me about: **Flutter/Dart, Firebase, Figma, Illustrator, Actions**
-
 - 📫 How to reach me: **mohitmadhav88@gmail.com**
-
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/drive/folders/1hkZ1EZuulOZizWvAsWgwrx_u4p5hAxVH?usp=sharing)
-
 - ⚡ Fun fact: **I love to code the design**
 <br>
 
